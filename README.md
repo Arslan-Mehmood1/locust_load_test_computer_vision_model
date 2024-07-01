@@ -1,0 +1,1 @@
+# locust_load_test_computer_vision_model
